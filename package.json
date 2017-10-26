@@ -1,0 +1,24 @@
+{
+  "name": "steam-chat-bot",
+  "version": "1.0.0",
+  "description": "A bot that will do some cool stuff maybe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanWalseth/SteamChatBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DylanWalseth/SteamChatBot/issues"
+  },
+  "homepage": "https://github.com/DylanWalseth/SteamChatBot#readme",
+  "dependencies": {
+    "gizoogle": "0.0.6",
+    "steam-totp": "^2.0.1",
+    "steam-user": "^3.23.2"
+  }
+}
